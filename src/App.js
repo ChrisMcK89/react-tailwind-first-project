@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="bg-gray-200 p-4">
       <h1 className="text-2xl font-bold text-blue-500">React + Tailwind CSS</h1>
-      <p className="mt-2 text-gray-700">Starter Template</p>
+      <p className="mt-2 text-gray-700">First Project</p>
     </div>
   );
 }
