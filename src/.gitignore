@@ -1,0 +1,43 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Directory for Yarn package manager
+/.yarn
+
+# .vscode directory
+.vscode
+
+# .idea directory
+.idea
+
+# Compiled files
+/dist
+
+# Environment variables
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.project
+.settings/
+.tmproj
+*.esproj
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# npm
+npm-debug.log
+*.log
